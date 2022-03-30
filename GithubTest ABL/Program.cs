@@ -6,7 +6,7 @@ namespace GithubTest_ABL
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
